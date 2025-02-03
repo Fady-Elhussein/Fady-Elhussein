@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 - **[Wasalli](https://github.com/fadyElhussein/Wasalli-Graduation-App)**\
   Developed a Flutter-based delivery app with a Node.js backend for seamless delivery services.
   
-  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/master/login%20.jpg?raw=true" width="200" height="200">
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/master/login%20.jpg?raw=true"  height="200">
 
 
 - **[Weather App](https://github.com/fadyElhussein/Weather_App_Flutter)**\
