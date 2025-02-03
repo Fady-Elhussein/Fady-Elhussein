@@ -46,9 +46,9 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
   Provides real-time weather updates with location-based forecasts.
 
   <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/weather_home.jpg" height="500"> &nbsp;&nbsp;
-  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/search_city.jpg" height="500"> &nbsp;&nbsp;
-  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city.jpg" height="500">  &nbsp;&nbsp;
-  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%202.jpg" height="500">&nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/search_city.jpg" height="500"> 
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city.jpg" height="500"> 
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%202.jpg" height="500">
 
 <br><br>
 
