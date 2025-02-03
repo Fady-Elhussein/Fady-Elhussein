@@ -27,17 +27,13 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 <br><br>
 
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/history%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/services%20.jpg" height="500">
-<br><br>
-
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/services%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/making%20order.jpg" height="500"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/addational%20details%20in%20making%20order%20.jpg" height="500">
 <br><br>
 
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/d148ddda139ae0cdeaaf96b7440bd54546b55074/available%20orders%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/order%20details.jpg" height="500">
-<br><br>
-
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/order%20details.jpg" height="500">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/accepted%20order.jpg" height="500"> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/d148ddda139ae0cdeaaf96b7440bd54546b55074/orders.jpg" height="500">
 <br><br>
