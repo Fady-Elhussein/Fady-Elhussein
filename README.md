@@ -1,4 +1,4 @@
-# Hi there, I'm Fady EL-Hussein 👋
+# Hello there, I'm Fady EL-Hussein 👋
 
 Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating efficient and user-friendly mobile applications. With hands-on experience in delivering various mobile solutions, I thrive on turning ideas into functional and impactful applications.
 
