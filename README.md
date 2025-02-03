@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city.jpg" height="500"> 
 <br><br>
 
- <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%202.jpg" height="500">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%202.jpg" height="500">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%203.jpg" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%204.jpg" height="500"> 
 
