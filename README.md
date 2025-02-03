@@ -60,6 +60,16 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 - **[News App](https://github.com/fadyElhussein/News_App_Flutter)**\
   Delivers personalized news feeds and real-time updates.
 
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/1d330d964e779236f34697a589384782cb4609f4/News_App/home_page.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/1d330d964e779236f34697a589384782cb4609f4/News_App/business.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/1d330d964e779236f34697a589384782cb4609f4/News_App/general_news.jpg" height="500"> 
+<br><br>
+
+ <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/1d330d964e779236f34697a589384782cb4609f4/News_App/health_news.jpg" height="500">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/1d330d964e779236f34697a589384782cb4609f4/News_App/sports_news.jpg" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/1d330d964e779236f34697a589384782cb4609f4/News_App/technology_news.jpg" height="500"> 
+<br><br>
+
 - **[Shop App](https://github.com/fadyElhussein/Shop_App)**\
   An e-commerce app featuring product listings and real-time deals.
 
