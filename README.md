@@ -20,24 +20,24 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 - **[Wasalli](https://github.com/fadyElhussein/Wasalli-Graduation-App)**\
   Developed a Flutter-based delivery app with a Node.js backend for seamless delivery services.
   
- <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/master/login%20.jpg?raw=true" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/f4e82886180ec8ac501aa55da44ebed976614537/Sign%20up.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/222fef97fef93a4d16e28d452390ee3efe7fa271/account.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/master/Wasalli_app/login%20.jpg?raw=true" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/f4e82886180ec8ac501aa55da44ebed976614537/Wasalli_app/Sign%20up.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/222fef97fef93a4d16e28d452390ee3efe7fa271/Wasalli_app/account.jpg" height="500"> &nbsp;&nbsp;&nbsp;
 <br><br>
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/edite%20account.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/history%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/services%20.jpg" height="500">
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/edite%20account.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/history%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/services%20.jpg" height="500">
 
 <br><br>
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/making%20order.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/addational%20details%20in%20making%20order%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/d148ddda139ae0cdeaaf96b7440bd54546b55074/available%20orders%20.jpg" height="500"> 
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/making%20order.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/addational%20details%20in%20making%20order%20.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/d148ddda139ae0cdeaaf96b7440bd54546b55074/Wasalli_app/available%20orders%20.jpg" height="500"> 
 
 <br><br>
 
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/order%20details.jpg" height="500">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/accepted%20order.jpg" height="500"> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/d148ddda139ae0cdeaaf96b7440bd54546b55074/orders.jpg" height="500">
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/order%20details.jpg" height="500">&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/7c14116692274707d38c25c3aa1157ea839c7803/Wasalli_app/accepted%20order.jpg" height="500"> &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/d148ddda139ae0cdeaaf96b7440bd54546b55074/Wasalli_app/orders.jpg" height="500">
 
 
 
