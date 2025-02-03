@@ -20,7 +20,6 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 - **[Wasalli](https://github.com/fadyElhussein/Wasalli-Graduation-App)**\
   Developed a Flutter-based delivery app with a Node.js backend for seamless delivery services.
 
-  
   <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/07323a6d12d2de0afd1696c192b3686fc27d1a0f/Wasalli_app/onboarding_1.jpg" height="500"> &nbsp;&nbsp;
  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/07323a6d12d2de0afd1696c192b3686fc27d1a0f/Wasalli_app/onboarding_2.jpg" height="500"> &nbsp;&nbsp;
  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/07323a6d12d2de0afd1696c192b3686fc27d1a0f/Wasalli_app/onboarding_3.jpg" height="500"> &nbsp;&nbsp;
@@ -51,7 +50,6 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%202.jpg" height="500"> &nbsp;&nbsp;
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%203.jpg"  height="500"> 
 <br><br>
-
 
 <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/ab07fd5b06699481647fe998d6b66d1753aa3dbb/weather_app/searched_city%204.jpg" height="500">  &nbsp;&nbsp;
  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/46466eb2aa652801e7bb7143f7587d341220c829/weather_app/wrong_name.jpg" height="500"> &nbsp;&nbsp;
