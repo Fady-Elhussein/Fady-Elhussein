@@ -70,6 +70,24 @@ Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating effi
 - **[Shop App](https://github.com/fadyElhussein/Shop_App)**\
   An e-commerce app featuring product listings and real-time deals.
 
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/1.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/2.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/3.jpg" height="500"> 
+<br><br>
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/4.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/5.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/6.jpg" height="500"> 
+<br><br>
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/7.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/8.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/9.jpg" height="500"> 
+<br><br>
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/10.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/11.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/12.jpg" height="500"> &nbsp;&nbsp;
+<br><br>
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/13.jpg" height="500"> &nbsp;&nbsp;
+  <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/14.jpg" height="500"> 
 ---
 ## 💨 Contact Me
 
