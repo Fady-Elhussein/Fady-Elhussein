@@ -1,6 +1,7 @@
 # Hello there, I'm Fady EL-Hussein 👋
 
-I'm Fady from Egypt, Sohag, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language.
+Welcome to my GitHub! I'm a **Flutter Developer** passionate about creating efficient and user-friendly mobile applications. With hands-on experience in delivering various mobile solutions, I thrive on turning ideas into functional and impactful applications.
+
 ---
 
 &#x20; &#x20;
