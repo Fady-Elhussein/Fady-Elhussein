@@ -8,7 +8,6 @@
 </p>
 
 I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language.
----
 
 ---
 ### 🎓 Education
@@ -16,6 +15,7 @@ I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in com
 #### 🏫 Faculty of Computers and AI — Sohag University, Egypt  
 📅 2020 – 2024  
 🎓 Bachelor’s Degree with GPA 3.14
+---
 
 ### 🛠️ Languages & Tools
 
