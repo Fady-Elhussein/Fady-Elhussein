@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Fady El-Hussein</h1>
-<h3 align="center">💡 Software Engineer | 🧠 Flutter & Web Developer </h3>
+<h3 align="center">💡 Software Engineer | 🧠 Flutter Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Flutter+Developer;Always+Learning+New+Things&center=true&width=500&height=30&color=58A6FF&pause=1000" alt="Typing SVG" />
