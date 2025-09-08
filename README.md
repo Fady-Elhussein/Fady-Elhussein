@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Flutter+Developer;Always+Learning+New+Things&center=true&width=500&height=30&color=58A6FF&pause=1000" alt="Typing SVG" />
 </p>
 
-I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language.
+Junior Software Engineer with experience in mobile application development using Flutter and Dart. Passionate about building efficient, user-friendly applications and continuously learning new technologies. Open to relocation and work opportunities inside or outside Egypt.
 
 ---
 ### 🎓 Education
@@ -56,6 +56,7 @@ I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in com
 - **Programming Languages:**  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 - **Frameworks:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - **State Management:** ![Provider](https://img.shields.io/badge/State%20Management-Provider-blue) ![BLoC](https://img.shields.io/badge/State%20Management-BLoC-orange)
+- **Backend & Services:** Firebase, REST APIs .
 - **Development Tools:**  GitHub / GitHub Desktop
 - **Other Skills:**  Troubleshooting, Time Management, Teamwork, Microsoft Office
 
