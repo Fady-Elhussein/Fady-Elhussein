@@ -15,6 +15,7 @@ I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in com
 #### 🏫 Faculty of Computers and AI — Sohag University, Egypt  
 📅 2020 – 2024  
 🎓 Bachelor’s Degree with GPA 3.14
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -132,4 +133,3 @@ I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in com
 <br><br>
   <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/13.jpg" height="500"> &nbsp;&nbsp;
   <img src="https://github.com/Fady-Elhussein/Fady-Elhussein/blob/cbb345606eccf3e1bd2618b625265fa3337e350d/shop_app/14.jpg" height="500"> 
----
