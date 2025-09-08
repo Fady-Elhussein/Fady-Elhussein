@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋, I'm fady El-Hussein</h1>
+<h1 align="center">Hi there 👋, I'm Fady El-Hussein</h1>
 <h3 align="center">💡 Software Engineer | 🧠 Flutter & Web Developer </h3>
 
 <p align="center">
