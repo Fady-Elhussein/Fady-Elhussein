@@ -4,7 +4,7 @@
 <h3 align="center">💡 Software Engineer | 🧠 Flutter & Web Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Flutter+Developer;MERN+Stack+Explorer;Loves+Clean+Code+&+Architecture;Always+Learning+New+Things&center=true&width=500&height=30&color=58A6FF&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Flutter+Developer;Always+Learning+New+Things&center=true&width=500&height=30&color=58A6FF&pause=1000" alt="Typing SVG" />
 </p>
 
 I'm Fady from Egypt, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language.
