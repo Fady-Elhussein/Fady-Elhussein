@@ -35,8 +35,8 @@ Junior Software Engineer with experience in mobile application development using
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fadyElhussein&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" alt="Fady's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyElhussein&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fady-Elhussein&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" alt="Fady's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-Elhussein&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top langs" />
 </p>
 
 ---
