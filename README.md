@@ -34,15 +34,16 @@ Junior Software Engineer with experience in mobile application development using
 ### 🔥 My GitHub Stats
 
 
+## 🔥 My GitHub Stats
+
 <p align="center">
   <img height="170"
     src="https://github-readme-stats.vercel.app/api?username=Fady-Elhussein&show_icons=true&theme=radical&cache_seconds=1800"
-    alt="Fady's GitHub stats" />
+  />
   <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-Elhussein&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"
-    alt="Top languages" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-Elhussein&layout=compact&theme=radical&cache_seconds=1800"
+  />
 </p>
-
 
 ---
 
