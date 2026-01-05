@@ -31,10 +31,7 @@ Junior Software Engineer with experience in mobile application development using
 
 ---
 
-### 🔥 My GitHub Stats
-
-
-## 🔥 My GitHub Stats
+<h2 align="center">🔥 My GitHub Stats</h2>
 
 <p align="center">
   <img height="170"
@@ -44,6 +41,7 @@ Junior Software Engineer with experience in mobile application development using
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-Elhussein&layout=compact&theme=radical&cache_seconds=1800"
   />
 </p>
+
 
 ---
 
