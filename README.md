@@ -40,8 +40,9 @@ Junior Software Engineer with experience in mobile application development using
     alt="Fady's GitHub stats" />
   <img height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fady-Elhussein&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"
-    alt="Top langs" />
+    alt="Top languages" />
 </p>
+
 
 ---
 
